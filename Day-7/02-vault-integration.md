@@ -48,6 +48,8 @@ sudo apt update
 **Finally, Install Vault**
 
 ```
+sudo apt update
+
 sudo apt install vault
 ```
 
